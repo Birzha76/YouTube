@@ -4,7 +4,7 @@ from telebot.async_telebot import AsyncTeleBot
 import asyncio
 import requests
 
-bot = AsyncTeleBot('5693795057:AAEvArS1Hu4cSQjDfDwRytNclskIalrZhuM')
+bot = AsyncTeleBot('TELEGRAM_BOT_API_TOKEN')
 
 
 @bot.message_handler(commands=['start'])
