@@ -15,3 +15,4 @@
 - [Простой браузер с помощью QtPy5](chatgpt_browser.py)
 - [Telegram-бот для генерации ИИ новогодних аватарок](stable_diff_telebot.py)
 - [Telegram-бот для получения курсов с Binance P2P и Garantex](telegram_crypto_rates.py)
+- [Телеграм бот на Chat GPT 3.5 Турбо - консультант по трейдингу](chatgpt_35_crypto_expert.py)
