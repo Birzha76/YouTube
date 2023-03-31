@@ -10,7 +10,7 @@ import pandas as pd
 import requests
 
 proxies = {
-    'http': 'http://da7f89-414243:4is36w9zw@185.132.277.55:41793',
+    'http': 'http://login:password@host:port',
 }
 
 def get_category():
